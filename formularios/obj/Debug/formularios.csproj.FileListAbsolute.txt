@@ -1,0 +1,13 @@
+C:\Users\luist\Desktop\formularios\formularios\bin\Debug\formularios.exe.config
+C:\Users\luist\Desktop\formularios\formularios\bin\Debug\formularios.exe
+C:\Users\luist\Desktop\formularios\formularios\bin\Debug\formularios.pdb
+C:\Users\luist\Desktop\formularios\formularios\obj\Debug\formularios.csproj.AssemblyReference.cache
+C:\Users\luist\Desktop\formularios\formularios\obj\Debug\formularios.ManteniminetoProveedor.resources
+C:\Users\luist\Desktop\formularios\formularios\obj\Debug\formularios.Mcliente.resources
+C:\Users\luist\Desktop\formularios\formularios\obj\Debug\formularios.Properties.Resources.resources
+C:\Users\luist\Desktop\formularios\formularios\obj\Debug\formularios.csproj.GenerateResource.cache
+C:\Users\luist\Desktop\formularios\formularios\obj\Debug\formularios.csproj.CoreCompileInputs.cache
+C:\Users\luist\Desktop\formularios\formularios\obj\Debug\formularios.exe
+C:\Users\luist\Desktop\formularios\formularios\obj\Debug\formularios.pdb
+C:\Users\luist\Desktop\formularios\formularios\obj\Debug\NavegadorVista.Navegador.resources
+C:\Users\luist\Desktop\formularios\formularios\obj\Debug\formularios.Pedidos.resources
